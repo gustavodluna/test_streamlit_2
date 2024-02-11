@@ -85,7 +85,7 @@ Se realizo el respectivo ETL y EDA de los datos preliminares. Utilizamos diversa
 st.markdown(
     """<style>
     section[data-testid="stSidebar"] {
-        width: 300px !important;  # Set the width to your desired value
+        width: 200px !important;  # Set the width to your desired value
     }
     </style>""",
     unsafe_allow_html=True,
